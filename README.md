@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on JAVA
 - 🌱 I’m currently learning Go
+- 🌱 I want to learning Rust 
+- 🌱 I want to learn a lot hahahaha
 - 🤔 I’m looking for help with css
 - 💬 I like interesting project
 - 📫 How to reach me: deedokkc@gmail.com
